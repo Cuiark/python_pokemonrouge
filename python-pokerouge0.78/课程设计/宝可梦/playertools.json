@@ -1,0 +1,40 @@
+{
+    "cark": {
+        "伤药": {
+            "name": "伤药",
+            "num": 1,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": 0,
+            "PpType": 0
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": 0,
+            "BloodType": 0,
+            "LifeType": 1,
+            "PpType": 0
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": 0,
+            "BloodType": 0,
+            "LifeType": 0,
+            "PpType": 0
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": 0,
+            "LifeType": 0,
+            "PpType": 0
+        }
+    }
+}

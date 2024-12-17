@@ -1,0 +1,891 @@
+[
+  {
+    "ID1": {
+      "name": "妙蛙种子",
+      "attribute": "Grass",
+      "attributes": ["Water", "Soil"],
+      "ATK": 49,
+      "DEF": 49,
+      "SPD": 45,
+      "ACC": 0,
+      "HP": 45,
+      "Hp": 45,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 3,
+      "Def": 3,
+      "spd": 2,
+      "hp": 3,
+      "learn_skills": [
+        {
+          "name": "撞击",
+          "level": 1
+        },
+        {
+          "name": "藤鞭",
+          "level": 5
+        },
+        {
+          "name": "飞叶快刀",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID2": {
+      "name": "含羞苞",
+      "attribute": "Grass",
+      "attributes": ["Water", "Soil"],
+      "ATK": 30,
+      "DEF": 35,
+      "SPD": 53,
+      "ACC": 0,
+      "HP": 40,
+      "Hp": 40,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 4,
+      "atk": 5,
+      "Def": 4,
+      "spd": 2,
+      "hp": 4,
+      "learn_skills": [
+        {
+          "name": "撞击",
+          "level": 1
+        },
+        {
+          "name": "光合作用",
+          "level": 5
+        },
+        {
+          "name": "种子炸弹",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID3": {
+      "name": "藤藤蛇",
+      "attribute": "Grass",
+      "attributes": ["Water", "Soil"],
+      "ATK": 45,
+      "DEF": 55,
+      "SPD": 63,
+      "ACC": 0,
+      "HP": 45,
+      "Hp": 45,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 4,
+      "Def": 2,
+      "spd": 1,
+      "hp": 3,
+      "learn_skills": [
+        {
+          "name": "撞击",
+          "level": 1
+        },
+        {
+          "name": "藤鞭",
+          "level": 5
+        },
+        {
+          "name": "种子炸弹",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID4": {
+      "name": "新叶喵",
+      "attribute": "Grass",
+      "attributes": ["Water", "Soil"],
+      "ATK": 61,
+      "DEF": 54,
+      "SPD": 65,
+      "ACC": 0,
+      "HP": 40,
+      "Hp": 40,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 3,
+      "atk": 2,
+      "Def":2,
+      "spd": 1,
+      "hp": 3,
+      "learn_skills": [
+        {
+          "name": "抓",
+          "level": 1
+        },
+        {
+          "name": "种子炸弹",
+          "level": 5
+        },
+        {
+          "name": "木角",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+     "ID5": {
+      "name": "小火龙",
+      "attribute": "Fire",
+      "attributes": ["Grass", "Insects"],
+      "ATK": 52,
+      "DEF": 43,
+      "SPD": 65,
+      "ACC": 0,
+      "HP": 39,
+       "Hp": 39,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 1,
+      "Def":2,
+      "spd": 1,
+      "hp": 3,
+      "learn_skills": [
+        {
+          "name": "抓",
+          "level": 1
+        },
+        {
+          "name": "火花",
+          "level": 5
+        },
+        {
+          "name": "火焰牙",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID6": {
+      "name": "火球鼠",
+      "attribute": "Fire",
+      "attributes": ["Grass", "Insects"],
+      "ATK": 52,
+      "DEF": 43,
+      "SPD": 65,
+      "ACC": 0,
+      "HP": 39,
+      "Hp": 39,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 2,
+      "Def":2,
+      "spd": 1,
+      "hp": 3,
+      "learn_skills": [
+        {
+          "name": "抓",
+          "level": 1
+        },
+        {
+          "name": "火焰牙",
+          "level": 5
+        },
+        {
+          "name": "喷射火焰",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID7": {
+      "name": "六尾",
+      "attribute": "Fire",
+      "attributes": ["Grass", "Insects"],
+      "ATK": 41,
+      "DEF": 40,
+      "SPD": 65,
+      "ACC": 0,
+      "HP": 38,
+      "Hp": 38,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 4,
+      "Def":3,
+      "spd": 1,
+      "hp": 3,
+      "learn_skills": [
+        {
+          "name": "火花",
+          "level": 1
+        },
+        {
+          "name": "烧净",
+          "level": 5
+        },
+        {
+          "name": "喷射火焰",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID8": {
+      "name": "卡蒂狗",
+      "attribute": "Fire",
+      "attributes": ["Grass", "Insects"],
+      "ATK": 70,
+      "DEF": 45,
+      "SPD": 60,
+      "ACC": 0,
+      "HP": 55,
+      "Hp": 55,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 1,
+      "Def":4,
+      "spd": 1,
+      "hp": 3,
+     "learn_skills": [
+        {
+          "name": "火花",
+          "level": 1
+        },
+        {
+          "name": "火焰轮",
+          "level": 5
+        },
+        {
+          "name": "火焰牙",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+  "ID9": {
+      "name": "小火马",
+      "attribute": "Fire",
+      "attributes": ["Grass", "Insects"],
+      "ATK": 85,
+      "DEF": 65,
+      "SPD": 90,
+      "ACC": 0,
+      "HP": 50,
+      "Hp": 50,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 1,
+      "Def":3,
+      "spd": 1,
+      "hp": 4,
+     "learn_skills": [
+        {
+          "name": "撞击",
+          "level": 1
+        },
+        {
+          "name": "火焰轮",
+          "level": 5
+        },
+        {
+          "name": "火焰旋涡",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID10": {
+      "name": "杰尼龟",
+      "attribute": "Water",
+      "attributes": ["Fire", "Earth"],
+      "ATK": 48,
+      "DEF": 65,
+      "SPD": 43,
+      "ACC": 0,
+      "HP": 44,
+      "Hp": 44,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 4,
+      "Def":2,
+      "spd": 2,
+      "hp": 3,
+     "learn_skills": [
+        {
+          "name": "撞击",
+          "level": 1
+        },
+        {
+          "name": "水枪",
+          "level": 5
+        },
+        {
+          "name": "水流尾",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID11": {
+      "name": "可达鸭",
+      "attribute": "Water",
+      "attributes": ["Fire", "Earth"],
+      "ATK": 52,
+      "DEF": 48,
+      "SPD": 55,
+      "ACC": 0,
+      "HP": 50,
+      "Hp": 50,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk":3,
+      "Def":2,
+      "spd": 2,
+      "hp": 2,
+      "learn_skills": [
+        {
+          "name": "抓",
+          "level": 1
+        },
+        {
+          "name": "水枪",
+          "level": 5
+        },
+        {
+          "name": "水流尾",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID12": {
+      "name": "小海狮",
+      "attribute": "Water",
+      "attributes": ["Fire", "Earth"],
+      "ATK": 45,
+      "DEF": 55,
+      "SPD": 45,
+      "ACC": 0,
+      "HP": 65,
+      "Hp": 65,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 4,
+      "Def":3,
+      "spd": 4,
+      "hp": 2,
+      "learn_skills": [
+        {
+          "name": "头锤",
+          "level": 1
+        },
+        {
+          "name": "水枪",
+          "level": 5
+        },
+        {
+          "name": "盐水",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID13": {
+      "name": "墨海马",
+      "attribute": "Water",
+      "attributes": ["Fire", "Earth"],
+      "ATK": 40,
+      "DEF": 70,
+      "SPD": 60,
+      "ACC": 0,
+      "HP": 30,
+      "Hp": 30,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 4,
+      "Def":3,
+      "spd": 2,
+      "hp": 5,
+      "learn_skills": [
+        {
+          "name": "水枪",
+          "level": 1
+        },
+        {
+          "name": "泡沫光线",
+          "level": 5
+        },
+        {
+          "name": "水炮",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID14": {
+      "name": "阿柏蛇",
+      "attribute": "Poison",
+      "attributes": ["Grass"],
+      "ATK": 60,
+      "DEF": 44,
+      "SPD": 55,
+      "ACC": 0,
+      "HP": 35,
+      "Hp": 35,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 3,
+      "Def":4,
+      "spd": 2,
+      "hp": 5,
+      "learn_skills": [
+        {
+          "name": "瞪眼",
+          "level": 1
+        },
+        {
+          "name": "毒针",
+          "level": 5
+        },
+        {
+          "name": "酸液炸弹",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID15": {
+      "name": "尼多兰",
+      "attribute": "Poison",
+      "attributes": ["Grass"],
+      "ATK": 47,
+      "DEF": 52,
+      "SPD": 41,
+      "ACC": 0,
+      "HP": 55,
+      "Hp": 55,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 4,
+      "Def":3,
+      "spd": 3,
+      "hp": 3,
+      "learn_skills": [
+        {
+          "name": "抓",
+          "level": 1
+        },
+        {
+          "name": "毒针",
+          "level": 5
+        },
+        {
+          "name": "毒液冲击",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID16": {
+      "name": "臭泥",
+      "attribute": "Poison",
+      "attributes": ["Grass"],
+      "ATK": 80,
+      "DEF": 50,
+      "SPD": 25,
+      "ACC": 0,
+      "HP": 80,
+      "Hp": 80,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 3,
+      "Def":4,
+      "spd": 4,
+      "hp": 2,
+      "learn_skills": [
+        {
+          "name": "拍击",
+          "level": 1
+        },
+        {
+          "name": "污泥攻击",
+          "level": 5
+        },
+        {
+          "name": "污泥炸弹",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID17": {
+      "name":"鬼斯",
+      "attribute": "Poison",
+      "attributes": ["Grass"],
+      "ATK": 35,
+      "DEF": 30,
+      "SPD": 80,
+      "ACC": 0,
+      "HP": 30,
+      "Hp": 30,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 5,
+      "Def":4,
+      "spd": 2,
+      "hp": 4,
+      "learn_skills": [
+        {
+          "name": "催眠术",
+          "level": 1
+        },
+        {
+          "name": "酸液炸弹",
+          "level": 5
+        },
+        {
+          "name": "毒液冲击",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID18": {
+      "name":"穿山鼠",
+      "attribute": "Earth",
+      "attributes": ["Fire","Poison"],
+      "ATK": 75,
+      "DEF": 85,
+      "SPD": 40,
+      "ACC": 0,
+      "HP": 50,
+      "Hp": 50,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 2,
+      "Def":4,
+      "spd": 2,
+      "hp": 3,
+     "learn_skills": [
+        {
+          "name": "抓",
+          "level": 1
+        },
+        {
+          "name": "猛撞",
+          "level": 5
+        },
+        {
+          "name": "重踏",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID19": {
+      "name":"小拳石",
+      "attribute": "Earth",
+      "attributes": ["Fire","Poison"],
+      "ATK": 80,
+      "DEF": 100,
+      "SPD": 20,
+      "ACC": 0,
+      "HP": 40,
+      "Hp": 40,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 2,
+      "Def":3,
+      "spd": 3,
+      "hp": 4,
+      "learn_skills": [
+        {
+          "name": "撞击",
+          "level": 1
+        },
+        {
+          "name": "重踏",
+          "level": 5
+        },
+        {
+          "name": "地震",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID20": {
+      "name":"卡拉卡拉",
+      "attribute": "Earth",
+      "attributes": ["Fire","Poison"],
+      "ATK": 50,
+      "DEF": 95,
+      "SPD": 35,
+      "ACC": 0,
+      "HP": 50,
+      "Hp": 50,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 3,
+      "Def":3,
+      "spd": 2,
+      "hp": 4,
+      "learn_skills": [
+        {
+          "name": "撞击",
+          "level": 1
+        },
+        {
+          "name": "重踏",
+          "level": 5
+        },
+        {
+          "name": "地震",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID21": {
+      "name":"独角犀牛",
+      "attribute": "Earth",
+      "attributes": ["Fire","Poison"],
+      "ATK": 85,
+      "DEF": 95,
+      "SPD": 25,
+      "ACC": 0,
+      "HP": 80,
+      "Hp": 80,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 2,
+      "Def":2,
+      "spd": 4,
+      "hp": 2,
+      "learn_skills": [
+        {
+          "name": "撞击",
+          "level": 1
+        },
+        {
+          "name": "重踏",
+          "level": 5
+        },
+        {
+          "name": "尖石攻击",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID22": {
+      "name":"绿毛虫",
+      "attribute": "Insect",
+      "attributes": ["Grass"],
+      "ATK": 30,
+      "DEF": 35,
+      "SPD": 45,
+      "ACC": 0,
+      "HP": 45,
+      "Hp": 45,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 4,
+      "Def":4,
+      "spd": 3,
+      "hp": 3,
+     "learn_skills": [
+        {
+          "name": "撞击",
+          "level": 1
+        },
+        {
+          "name": "吐丝",
+          "level": 5
+        },
+        {
+          "name": "虫咬",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID23": {
+      "name":"巴大蝶",
+      "attribute": "Insect",
+      "attributes": ["Grass"],
+      "ATK": 45,
+      "DEF": 50,
+      "SPD": 70,
+      "ACC": 0,
+      "HP": 60,
+      "Hp": 60,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 3,
+      "Def":4,
+      "spd": 1,
+      "hp": 2,
+      "learn_skills": [
+        {
+          "name": "起风",
+          "level": 1
+        },
+        {
+          "name": "虫咬",
+          "level": 5
+        },
+        {
+          "name": "虫鸣",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID24": {
+      "name":"派拉斯",
+      "attribute": "Insect",
+      "attributes": ["Grass"],
+      "ATK": 70,
+      "DEF": 55,
+      "SPD": 25,
+      "ACC": 0,
+      "HP": 35,
+      "Hp": 35,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 2,
+      "Def":2,
+      "spd": 5,
+      "hp": 4,
+     "learn_skills": [
+        {
+          "name": "抓",
+          "level": 1
+        },
+        {
+          "name": "虫咬",
+          "level": 5
+        },
+        {
+          "name": "十字剪",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID25": {
+      "name":"飞天螳螂",
+      "attribute": "Insect",
+      "attributes": ["Grass"],
+      "ATK": 110,
+      "DEF": 80,
+      "SPD": 105,
+      "ACC": 0,
+      "HP": 70,
+      "Hp": 70,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 1,
+      "Def":1,
+      "spd": 1,
+      "hp": 4,
+      "learn_skills": [
+        {
+          "name": "瞪眼",
+          "level": 1
+        },
+        {
+          "name": "劈开",
+          "level": 5
+        },
+        {
+          "name": "十字剪",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    },
+    "ID26": {
+      "name":"榛果球",
+      "attribute": "Insect",
+      "attributes": ["Grass"],
+      "ATK": 65,
+      "DEF": 90,
+      "SPD": 15,
+      "ACC": 0,
+      "HP": 50,
+      "Hp": 50,
+      "EXP": 0,
+      "NeedEXP": 20,
+      "exp": 5,
+      "atk": 2,
+      "Def":2,
+      "spd": 3,
+      "hp": 4,
+      "learn_skills": [
+        {
+          "name": "撞击",
+          "level": 1
+        },
+        {
+          "name": "虫咬",
+          "level": 5
+        },
+        {
+          "name": "猛撞",
+          "level": 10
+        }
+      ],
+      "skills": []
+
+    }
+  }
+
+
+
+]

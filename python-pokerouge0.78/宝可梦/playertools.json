@@ -1,0 +1,1207 @@
+{
+    "cark": {
+        "伤药": {
+            "name": "伤药",
+            "num": 1,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 0,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 4,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "ccc": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "name": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "nmma": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "nn": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "ccaca": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "ABC": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "nana": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "nann": {
+        "伤药": {
+            "name": "伤药",
+            "num": 2,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "nnanannn": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "nnAAA": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "caccc": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 4,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "cba": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "caca": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "cacc": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "caaaa": {
+        "伤药": {
+            "name": "伤药",
+            "num": 2,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 4,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        },
+        "大师球": {
+            "name": "大师球",
+            "num": 2,
+            "ToolsType": 1,
+            "GetType": 4,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "caaaaa": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "caaca": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "caacca": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "cacaa": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "cacaca": {
+        "伤药": {
+            "name": "伤药",
+            "num": 2,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "cacac": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "33": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 1,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "111": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 1,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "caa": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 1,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "aaa": {
+        "伤药": {
+            "name": "伤药",
+            "num": 2,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "acaca": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "xfgx": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 1,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 5,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "cacasca": {
+        "伤药": {
+            "name": "伤药",
+            "num": 1,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 0,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 4,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        },
+        "大伤药": {
+            "name": "大伤药",
+            "num": 1,
+            "ToolsType": 2,
+            "GetType": 2,
+            "BloodType": 4,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "caac": {
+        "伤药": {
+            "name": "伤药",
+            "num": 3,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 4,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    },
+    "1c": {
+        "伤药": {
+            "name": "伤药",
+            "num": 1,
+            "ToolsType": 2,
+            "GetType": 1,
+            "BloodType": 1,
+            "LifeType": null,
+            "PpType": null
+        },
+        "活力碎片": {
+            "name": "活力碎片",
+            "num": 1,
+            "ToolsType": 16,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": 1,
+            "PpType": null
+        },
+        "Pp小补剂": {
+            "name": "Pp小补剂",
+            "num": 2,
+            "ToolsType": 32,
+            "GetType": null,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": 1
+        },
+        "精灵球": {
+            "name": "精灵球",
+            "num": 4,
+            "ToolsType": 1,
+            "GetType": 1,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        },
+        "大师球": {
+            "name": "大师球",
+            "num": 1,
+            "ToolsType": 1,
+            "GetType": 4,
+            "BloodType": null,
+            "LifeType": null,
+            "PpType": null
+        }
+    }
+}

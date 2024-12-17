@@ -1,0 +1,420 @@
+[
+  {
+    "拍击": {
+      "name": "拍击",
+      "hurt": 40,
+      "ACC": 100,
+      "PP": 35,
+      "Pp": 35,
+      "attributes": [],
+      "attribute": "Normal",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "抓": {
+      "name": "抓",
+      "hurt": 40,
+      "ACC": 100,
+      "PP": 35,
+      "Pp": 35,
+      "attributes": [],
+      "attribute": "Normal",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "头锤": {
+      "name": "头锤",
+      "hurt": 70,
+      "ACC": 100,
+      "PP": 15,
+      "Pp": 15,
+      "attributes": [],
+      "attribute": "Normal",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "猛撞": {
+      "name": "猛撞",
+      "hurt": 90,
+      "ACC": 85,
+      "PP": 20,
+      "Pp": 20,
+      "attributes": [],
+      "attribute": "Normal",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "撞击": {
+      "name": "撞击",
+      "hurt": 40,
+      "ACC": 100,
+      "PP": 35,
+      "Pp": 35,
+      "attributes": [],
+      "attribute": "Normal",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "尖石攻击": {
+      "name": "尖石攻击",
+      "hurt": 100,
+      "ACC": 80,
+      "PP": 5,
+      "Pp": 5,
+      "attributes": [ "Fire", "Poison"],
+      "attribute": "Soil",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "重踏": {
+      "name": "重踏",
+      "hurt": 60,
+      "ACC": 100,
+      "PP": 20,
+      "Pp": 20,
+      "attributes": [],
+      "attribute": "Normal",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "劈开": {
+      "name": "劈开",
+      "hurt": 70,
+      "ACC": 100,
+      "PP": 20,
+      "Pp": 20,
+      "attributes": [],
+      "attribute": "Normal",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+
+    "瞪眼": {
+      "name": "瞪眼",
+      "hurt": 40,
+      "ACC": 100,
+      "PP": 30,
+      "Pp": 30,
+      "attributes": [],
+      "attribute": "Normal",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "水枪": {
+      "name": "水枪",
+      "hurt": 40,
+      "ACC": 100,
+      "PP": 25,
+      "Pp": 25,
+      "attributes": ["Fire","Earth"],
+      "attribute": "Water",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "水炮": {
+      "name": "水炮",
+      "hurt": 110,
+      "ACC": 80,
+      "PP": 5,
+      "Pp": 5,
+      "attributes": ["Fire","Earth"],
+      "attribute": "Water",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "泡沫光线": {
+      "name": "泡沫光线",
+      "hurt": 65,
+      "ACC": 100,
+      "PP": 20,
+      "Pp": 20,
+      "attributes": ["Fire","Earth"],
+      "attribute": "Water",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "盐水": {
+      "name": "盐水",
+      "hurt": 105,
+      "ACC": 100,
+      "PP": 10,
+      "Pp": 10,
+      "attributes": ["Fire","Earth"],
+      "attribute": "Water",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "水流尾": {
+      "name": "水流尾",
+      "hurt": 90,
+      "ACC": 90,
+      "PP": 10,
+      "Pp": 10,
+      "attributes": ["Fire","Earth"],
+      "attribute": "Water",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "喷射火焰": {
+      "name": "喷射火焰",
+      "hurt": 90,
+      "ACC": 100,
+      "PP": 15,
+      "Pp": 15,
+      "attributes": ["Grass", "Insects"],
+      "attribute": "Fire",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "火焰轮": {
+      "name": "火焰轮",
+      "hurt": 60,
+      "ACC": 100,
+      "PP": 25,
+      "Pp": 25,
+      "attributes": ["Grass", "Insects"],
+      "attribute": "Fire",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "火花": {
+      "name": "火花",
+      "hurt": 40,
+      "ACC": 100,
+      "PP": 25,
+      "Pp": 25,
+      "attributes": ["Grass", "Insects"],
+      "attribute": "Fire",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "火焰旋涡": {
+      "name": "火焰旋涡",
+      "hurt": 35,
+      "ACC": 85,
+      "PP": 15,
+      "Pp": 15,
+      "attributes": ["Grass", "Insects"],
+      "attribute": "Fire",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "火焰牙": {
+      "name": "火焰牙",
+      "hurt": 65,
+      "ACC": 95,
+      "PP": 15,
+      "Pp": 15,
+      "attributes": ["Grass", "Insects"],
+      "attribute": "Fire",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "烧净": {
+      "name": "烧净",
+      "hurt": 60,
+      "ACC": 100,
+      "PP": 15,
+      "Pp": 15,
+      "attributes": ["Grass", "Insects"],
+      "attribute": "Fire",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+
+    "恢复": {
+      "name": "恢复",
+      "hurt": 0,
+      "ACC": 100,
+      "PP": 10,
+      "Pp": 10,
+      "attributes": [],
+      "attribute": "Normal",
+      "skill_type": 1,
+      "blood_type": 1
+    },
+    "毒针": {
+      "name": "毒针",
+      "hurt": 30,
+      "ACC": 95,
+      "PP": 25,
+      "Pp": 25,
+      "attributes": ["Grass"],
+      "attribute": "Poison",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "污泥攻击": {
+      "name": "污泥攻击",
+      "hurt": 65,
+      "ACC": 100,
+      "PP": 20,
+      "Pp": 20,
+      "attributes": ["Grass"],
+      "attribute": "Poison",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "污泥炸弹": {
+      "name": "污泥炸弹",
+      "hurt": 90,
+      "ACC": 100,
+      "PP": 10,
+      "Pp": 10,
+      "attributes": ["Grass"],
+      "attribute": "Poison",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "酸液炸弹": {
+      "name": "酸液炸弹",
+      "hurt": 40,
+      "ACC": 100,
+      "PP": 20,
+      "Pp": 20,
+      "attributes": ["Grass"],
+      "attribute": "Poison",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "毒液冲击": {
+      "name": "毒液冲击",
+      "hurt": 65,
+      "ACC": 100,
+      "PP": 10,
+      "Pp": 10,
+      "attributes": ["Grass"],
+      "attribute": "Poison",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "催眠术": {
+      "name": "催眠术",
+      "hurt": 0,
+      "ACC": 100,
+      "PP": 25,
+      "Pp": 25,
+      "attributes": ["Grass"],
+      "attribute": "Poison",
+      "skill_type": 1,
+      "blood_type": 4
+    },
+
+
+    "地震": {
+      "name": "地震",
+      "hurt": 100,
+      "ACC": 100,
+      "PP": 10,
+      "Pp": 10,
+      "attributes": [ "Fire", "Poison"],
+      "attribute": "Soil",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "吐丝": {
+      "name": "吐丝",
+      "hurt": 30,
+      "ACC": 95,
+      "PP": 40,
+      "Pp": 40,
+      "attributes": ["Grass"],
+      "attribute": "Insect",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "虫咬": {
+      "name": "虫咬",
+      "hurt": 60,
+      "ACC": 100,
+      "PP": 20,
+      "Pp": 20,
+      "attributes": ["Grass"],
+      "attribute": "Insect",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "起风": {
+      "name": "起风",
+      "hurt": 50,
+      "ACC": 90,
+      "PP": 20,
+      "Pp": 20,
+      "attributes": ["Grass"],
+      "attribute": "Insect",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "虫鸣": {
+      "name": "虫鸣",
+      "hurt": 90,
+      "ACC": 100,
+      "PP": 10,
+      "Pp": 10,
+      "attributes": ["Grass"],
+      "attribute": "Insect",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "十字剪": {
+      "name": "十字剪",
+      "hurt": 90,
+      "ACC": 100,
+      "PP": 10,
+      "Pp": 10,
+      "attributes": ["Grass"],
+      "attribute": "Insect",
+      "skill_type": 2,
+      "blood_type": 0
+    },
+    "藤鞭": {
+      "name": "藤鞭",
+      "hurt": 45,
+      "ACC": 100,
+      "PP": 25,
+      "Pp": 25,
+      "attributes": ["Water", "Soil"],
+      "attribute": "Grass",
+      "skill_type": 2,
+      "blood_type": 0
+
+    },
+  "种子炸弹": {
+      "name": "种子炸弹",
+      "hurt": 80,
+      "ACC": 100,
+      "PP": 15,
+      "Pp": 15,
+      "attributes": ["Water", "Soil"],
+      "attribute": "Grass",
+      "skill_type": 2,
+      "blood_type": 0
+
+    },
+    "木角": {
+      "name": "木角",
+      "hurt": 0,
+      "ACC": 100,
+      "PP": 10,
+      "Pp": 10,
+      "attributes": ["Water", "Soil"],
+      "attribute": "Grass",
+      "skill_type": 1,
+      "blood_type": 1
+
+    },
+
+    "飞叶快刀": {
+      "name": "飞叶快刀",
+      "hurt": 55,
+      "ACC": 95,
+      "PP": 25,
+      "Pp": 25,
+      "attributes": ["Water", "Soil"],
+      "attribute": "Grass",
+      "skill_type": 2,
+      "blood_type": 0
+
+    }
+  }
+]
